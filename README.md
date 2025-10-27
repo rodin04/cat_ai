@@ -15,5 +15,16 @@ Your webcam reacts to your face and hand gestures, showing matching cat images a
 | One hand ✋  | Winkende Hand          | <img src="imgs/cat_wave.jpg" width="100"> |
 | Both 🙌     | Beide Hände oben       | <img src="imgs/cat_both_up.jpg" width="100"> |
 
+## Functions
+
+- **Pose & Gesture Recognition:**  
+  - Both hands up 🙌  
+  - One hand waving ✋  
+  - Hands covering face 😿  
+- **Face Expression Detection:**  
+  - Smile 😸  
+- **Real-time:** Live webcam feed  
+- **Optional Sound:** Plays corresponding sound files  
+- **Interactive GUI:** Shows images based on detected status  
 
 
