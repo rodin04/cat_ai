@@ -44,6 +44,17 @@ cd folder path
 pip install -r requirements.txt
 ```
 
+## Start programm
+
+1. Open a terminal (Git Bash, PowerShell, or CMD).
+2. Navigate to the project folder.
+```bash
+cd folder path
+```
+3. Start python script
+```bash
+python cat_ai.py
+```
 
 
 ## Files / Structure
