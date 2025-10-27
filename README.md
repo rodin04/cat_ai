@@ -7,10 +7,10 @@ Your webcam reacts to your face and hand gestures, showing matching cat images a
 
 ## Pose recognition
 
-| Emote | description | img |
+| Emote | Description | Img |
 |----------|----------|----------|
-| Zeile1   | Zeile1   | Zeile1   |
-| Zeile2   | Zeile2   | Zeile2   |
-| Zeile3   | Zeile3   | Zeile3   |
-| Zeile4   | Zeile4   | Zeile4   |
-| Zeile5   | Zeile5   | Zeile5   |
+| Normal   | Zeile1   | Zeile1   |
+| Laughing   | Zeile2   | Zeile2   |
+| Crying   | Zeile3   | Zeile3   |
+| one hand   | Zeile4   | Zeile4   |
+| both   | Zeile5   | Zeile5   |
