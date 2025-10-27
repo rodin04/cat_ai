@@ -58,7 +58,7 @@ python cat_ai.py
 
 ## Steering / Controls
 
-- Press `q` in the webcam window to **exit** the program.
+- `q` : Quit the application
 
 
 
