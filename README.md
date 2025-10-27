@@ -32,6 +32,7 @@ Your webcam reacts to your face and hand gestures, showing matching cat images a
 
 ```bash
 git clone https://github.com/rodin04/cat_ai.git
+```
 
 
 
