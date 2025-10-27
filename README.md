@@ -43,5 +43,14 @@ Your webcam reacts to your face and hand gestures, showing matching cat images a
   - `yay.wav`
 - `example.png` – Example image for README or reference
 
+## Requirements
+
+- Python 3.12+  
+- OpenCV 4.8+ (`opencv-python==4.8.1.78`)  
+- MediaPipe 0.10+ (`mediapipe==0.10.21`)  
+- NumPy 1.24+ (`numpy==1.24.3`)  
+- Pygame 2.5+ (`pygame==2.5.2`)  
+- Pillow 10+ (`Pillow==10.2.0`)  
+- Tkinter (`tk==0.1.0`)  
 
 
