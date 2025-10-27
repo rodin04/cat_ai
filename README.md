@@ -9,9 +9,10 @@ Your webcam reacts to your face and hand gestures, showing matching cat images a
 
 | Emote       | Description            | Img                                     |
 |-------------|-----------------------|----------------------------------------|
-| Normal      | Keine Bewegung         | ![Normal](imgs/cat_normal.jpg)         |
-| Laughing 😸 | Lächeln                | ![Laughing](imgs/cat_happy.jpg)        |
-| Crying 😿   | Beide Hände vorm Gesicht | ![Crying](imgs/cat_sad.jpg)           |
-| One hand ✋  | Winkende Hand          | ![One hand](imgs/cat_wave.jpg)         |
-| Both 🙌     | Beide Hände oben       | ![Both](imgs/cat_both_up.jpg)          |
+| Normal      | Keine Bewegung         | <img src="imgs/cat_normal.jpg" width="150"> |
+| Laughing 😸 | Lächeln                | <img src="imgs/cat_happy.jpg" width="150"> |
+| Crying 😿   | Beide Hände vorm Gesicht | <img src="imgs/cat_sad.jpg" width="150"> |
+| One hand ✋  | Winkende Hand          | <img src="imgs/cat_wave.jpg" width="150"> |
+| Both 🙌     | Beide Hände oben       | <img src="imgs/cat_both_up.jpg" width="150"> |
+
 
