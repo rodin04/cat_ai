@@ -30,9 +30,6 @@ Your webcam reacts to your face and hand gestures, showing matching cat images a
 1. Open a terminal (Git Bash, PowerShell, or CMD).  
 2. Navigate to your project folder:
 
-```bash
-cd C:\Users\rodin\Documents\_IT-Projekte_Rodin\25_KI\1_Python\_
-
 
 
 ## Files / Structure
