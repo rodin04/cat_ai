@@ -49,7 +49,7 @@ pip install -r requirements.txt
 1. Open a terminal (Git Bash, PowerShell, or CMD).
 2. Navigate to the project folder.
 ```bash
-cd folder path
+cd your_folder_path!!!
 ```
 3. Start python script
 ```bash
