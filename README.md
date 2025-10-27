@@ -36,7 +36,7 @@ git clone https://github.com/rodin04/cat_ai.git
 
 3. Navigate to the project folder.
 ```bash
-cd folder path
+cd your_folder_path!!!
 ```
 
 4. Install requirements.txt
