@@ -7,10 +7,11 @@ Your webcam reacts to your face and hand gestures, showing matching cat images a
 
 ## Pose recognition
 
-| Emote | Description | Img |
-|----------|----------|----------|
-| Normal   | Zeile1   | Zeile1   |
-| Laughing   | Zeile2   | Zeile2   |
-| Crying   | Zeile3   | Zeile3   |
-| one hand   | Zeile4   | Zeile4   |
-| both   | Zeile5   | Zeile5   |
+| Emote       | Description            | Img                                     |
+|-------------|-----------------------|----------------------------------------|
+| Normal      | Keine Bewegung         | ![Normal](imgs/cat_normal.jpg)         |
+| Laughing 😸 | Lächeln                | ![Laughing](imgs/cat_happy.jpg)        |
+| Crying 😿   | Beide Hände vorm Gesicht | ![Crying](imgs/cat_sad.jpg)           |
+| One hand ✋  | Winkende Hand          | ![One hand](imgs/cat_wave.jpg)         |
+| Both 🙌     | Beide Hände oben       | ![Both](imgs/cat_both_up.jpg)          |
+
