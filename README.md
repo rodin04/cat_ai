@@ -56,6 +56,12 @@ cd your_folder_path!!!
 python cat_ai.py
 ```
 
+## Steering / Controls
+
+- Press `q` in the webcam window to **exit** the program.
+
+
+
 
 ## Files / Structure
 
