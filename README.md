@@ -17,15 +17,13 @@ Your webcam reacts to your face and hand gestures, showing matching cat images a
 
 ## Functions
 
-- **Pose & Gesture Recognition:**  
-  - Both hands up 🙌  
-  - One hand waving ✋  
-  - Hands covering face 😿  
-- **Face Expression Detection:**  
-  - Smile 😸  
-- **Real-time:** Live webcam feed  
-- **Optional Sound:** Plays corresponding sound files  
-- **Interactive GUI:** Shows images based on detected status  
+- Detects full-body pose (33 landmarks) and face (468 landmarks)  
+- Detects left and right hands (21 landmarks each)  
+- Recognizes gestures: both hands up 🙌, one hand waving ✋, hands covering face 😿  
+- Detects smile 😸  
+- Updates GUI images in real-time  
+- Optional sound feedback for each status
+
 
 
 
