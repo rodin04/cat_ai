@@ -6,3 +6,11 @@ Your webcam reacts to your face and hand gestures, showing matching cat images a
 
 
 ## Pose recognition
+
+| Emote | description | img |
+|----------|----------|----------|
+| Zeile1   | Zeile1   | Zeile1   |
+| Zeile2   | Zeile2   | Zeile2   |
+| Zeile3   | Zeile3   | Zeile3   |
+| Zeile4   | Zeile4   | Zeile4   |
+| Zeile5   | Zeile5   | Zeile5   |
