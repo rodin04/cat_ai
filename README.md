@@ -1,9 +1,6 @@
-# cat_ai
-Your webcam reacts like a cat 😸 with gestures, smiles, and sounds!
+Cat AI 😸
 
-Cat AI – Webcam Reaktionen 😸
-
-Cat AI zeigt in Echtzeit Katzenbilder, abhängig von Handgesten und Gesichtsausdrücken vor deiner Webcam. Optional spielt es auch Sounds ab.
+Webcam reacts like a cat – erkennt Handgesten und Gesichtsausdrücke und zeigt passende Katzenbilder. Optional werden Sounds abgespielt.
 
 Funktionen
 
@@ -29,6 +26,12 @@ Spielt passende Sounds ab, wenn Lautsprecher verfügbar
 
 Installation
 
+Repository klonen:
+
+git clone https://github.com/DEIN-BENUTZERNAME/cat_ai.git
+cd cat_ai
+
+
 Abhängigkeiten installieren:
 
 pip install -r requirements.txt
@@ -44,15 +47,15 @@ Steuerung:
 
 q → Anwendung schließen
 
-Dateien
+💡 Hinweis: Du kannst eigene Bilder oder Sounds in imgs/ und sounds/ hinzufügen. Die Erkennung wird automatisch angepasst.
 
-main.py → Hauptskript
-
-imgs/ → Katzenbilder
-
-sounds/ → Sounds für Gesten
-
-requirements.txt → Python-Abhängigkeiten
+Projektstruktur
+cat_ai/
+├── main.py          # Hauptskript
+├── imgs/            # Katzenbilder
+├── sounds/          # Sounds für Gesten
+├── requirements.txt # Python-Abhängigkeiten
+└── README.md        # Diese Datei
 
 Anforderungen
 
@@ -68,4 +71,6 @@ Pillow
 
 Pygame
 
-💡 Hinweis: Du kannst eigene Bilder oder Sounds in imgs/ und sounds/ hinzufügen. Die Erkennung wird automatisch angepasst.
+Lizenz
+
+MIT License – siehe LICENSE
