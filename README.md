@@ -28,7 +28,10 @@ Your webcam reacts to your face and hand gestures, showing matching cat images a
 ## Installation
 
 1. Open a terminal (Git Bash, PowerShell, or CMD).  
-2. Navigate to your project folder:
+2. Clone the repository:
+
+```bash
+git clone https://github.com/rodin04/cat_ai.git
 
 
 
