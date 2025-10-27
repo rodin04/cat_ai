@@ -28,3 +28,4 @@ Your webcam reacts to your face and hand gestures, showing matching cat images a
 - **Interactive GUI:** Shows images based on detected status  
 
 
+
