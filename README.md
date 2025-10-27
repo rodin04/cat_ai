@@ -27,21 +27,21 @@ Your webcam reacts to your face and hand gestures, showing matching cat images a
 
 ## Files / Structure
 
-cat_ai/
-├── cat_ai.py # Main script
-├── requirements.txt # Python dependencies
-├── imgs/ # Images for different states
-│ ├── cat_normal.jpg
-│ ├── cat_happy.jpg
-│ ├── cat_sad.jpg
-│ ├── cat_wave.jpg
-│ └── cat_both_up.jpg
-├── sounds/ # Optional sound files
-│ ├── normal.wav
-│ ├── laughing.wav
-│ ├── sad.wav
-│ ├── hello.wav
-│ └── yay.wav
-└── example.png # Example image for README or reference
+- `cat_ai.py` – Main Python script
+- `requirements.txt` – Python dependencies
+- `imgs/` – Images for different states
+  - `cat_normal.jpg`
+  - `cat_happy.jpg`
+  - `cat_sad.jpg`
+  - `cat_wave.jpg`
+  - `cat_both_up.jpg`
+- `sounds/` – Optional sound files
+  - `normal.wav`
+  - `laughing.wav`
+  - `sad.wav`
+  - `hello.wav`
+  - `yay.wav`
+- `example.png` – Example image for README or reference
+
 
 
