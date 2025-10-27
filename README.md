@@ -39,7 +39,7 @@ git clone https://github.com/rodin04/cat_ai.git
 cd folder path
 ```
 
-4. Install requirements
+4. Install requirements.txt
 ```bash
 pip install -r requirements.txt
 ```
