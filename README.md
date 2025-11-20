@@ -4,6 +4,9 @@ Your webcam reacts to your face and hand gestures, showing matching cat images a
 
 ![Beschreibung des Bildes](example_sad.png)
 
+- Hand & face detection:
+
+![Beschreibung des Bildes](hand_detection.png)
 
 ## Pose recognition
 
